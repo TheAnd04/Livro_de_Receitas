@@ -1,0 +1,27 @@
+-= RECEITA =-
+Titulo:pao de queijo
+Ingredientes:
+* 1
+* 2
+* 3
+* 4
+* 5
+==FIM DOS INGREDIENTES==
+Preparo:
+* 1
+* 2
+* 3
+* 4
+* 5
+--== FIM DA RECEITA ==--
+
+
+
+-= RECEITA =-
+Titulo:oi
+Ingredientes:
+* a
+==FIM DOS INGREDIENTES==
+Preparo:
+--== FIM DA RECEITA ==--
+
